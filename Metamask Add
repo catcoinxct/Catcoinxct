@@ -22,7 +22,7 @@ If you'd like to integrate suggesting a token into your own web app, you can fol
 const tokenAddress = '0x7Bd9a5f955Ac317B4936DDd3B3018ecE82A02A71';
 const tokenSymbol = 'Cat Coin';
 const tokenDecimals = 2;
-const tokenImage = ' https://raw.githubusercontent.com/catcoinxct/Catcoinxct/main/logo.png';
+const tokenImage = ' https://raw.githubusercontent.com/catcoinxct/Catcoinxct/main/catcoin%20logo.png';
 
 try {
   // wasAdded is a boolean. Like any RPC method, an error may be thrown.
